@@ -44,7 +44,7 @@ Cloud engineer enfocado en **AWS**. Diseño, construyo y desmonto infraestructur
 
 ### 連絡 · Contacto
 
-<a href="https://www.linkedin.com/in/cristian-andres-rueda-arteaga-b89877304/"><img src="https://img.shields.io/badge/LinkedIn-Cristian_Rueda_Arteaga-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/cristian-andres-rueda-arteaga/"><img src="https://img.shields.io/badge/LinkedIn-Cristian_Rueda_Arteaga-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:cristianandresartega@gmail.com"><img src="https://img.shields.io/badge/Email-cristianandresartega%40gmail.com-BC002D?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 &nbsp;
